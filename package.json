@@ -1,0 +1,15 @@
+{
+  "name": "mail-tech-challenge-backend",
+  "version": "1.0.0",
+  "description": "A barebones RESTful mail api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohanspencer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mocha": "^5.0.2"
+  }
+}
